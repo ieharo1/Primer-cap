@@ -68,7 +68,7 @@
                 }
               ],
               "outputHashing": "all",
-              "baseHref": "/Primer-cap/"
+              "baseHref": "/SECURITY-PLAYGROUND/"
             },
             "development": {
               "optimization": false,
