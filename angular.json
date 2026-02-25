@@ -68,7 +68,7 @@
                 }
               ],
               "outputHashing": "all",
-              "baseHref": "/"
+              "baseHref": "/Primer-cap/"
             },
             "development": {
               "optimization": false,
